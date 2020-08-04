@@ -1,5 +1,10 @@
-# GRCN
-Graph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback
+# Graph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback
+This is our Pytorch implementation for the paper:  
+> Yinwei Wei, Xiang Wang, Liqiang Nie, Xiangnan He and Tat-Seng Chua(2019). Graph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback. In ACM MM`20, Seattle, United States, Oct. 12-16, 2020  
+Author: Dr. Yinwei Wei (weiyinwei at hotmail.com)
+
+## Introduction
+In this work, we focus on adaptively refining the structure of interaction graph to discover and prune potential false-positiveedges.  Towards this end, we devise a new GCN-based recommendermodel,Graph-Refined Convolutional Network(GRCN), which adjuststhe  structure  of  interaction  graph  adaptively  based  on  statusof  model  training,  instead  of  remaining  the  fixed  structure. 
 
 ## Environment Requirement
 The code has been tested running under Python 3.5.2. The required packages are as follows:
