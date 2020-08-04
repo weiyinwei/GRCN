@@ -1,6 +1,6 @@
 # Graph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback
 This is our Pytorch implementation for the paper:  
-> Yinwei Wei, Xiang Wang, Liqiang Nie, Xiangnan He and Tat-Seng Chua(2019). Graph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback. In ACM MM`20, Seattle, United States, Oct. 12-16, 2020  
+> Yinwei Wei, Xiang Wang, Liqiang Nie, Xiangnan He and Tat-Seng Chua. Graph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback. In ACM MM`20, Seattle, United States, Oct. 12-16, 2020  
 Author: Dr. Yinwei Wei (weiyinwei at hotmail.com)
 
 ## Introduction
