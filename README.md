@@ -4,7 +4,7 @@ This is our Pytorch implementation for the paper:
 Author: Dr. Yinwei Wei (weiyinwei at hotmail.com)
 
 ## Introduction
-In this work, we focus on adaptively refining the structure of interaction graph to discover and prune potential false-positiveedges.  Towards this end, we devise a new GCN-based recommendermodel,Graph-Refined Convolutional Network(GRCN), which adjuststhe  structure  of  interaction  graph  adaptively  based  on  statusof  model  training,  instead  of  remaining  the  fixed  structure. 
+In this work, we focus on adaptively refining the structure of interaction graph to discover and prune potential false-positive edges. Towards this end, we devise a new GCN-based recommendermodel, Graph-Refined Convolutional Network(GRCN), which adjusts the structure of interaction graph adaptively based on status of mode training, instead of remaining the fixed structure. 
 
 ## Environment Requirement
 The code has been tested running under Python 3.5.2. The required packages are as follows:
@@ -47,7 +47,10 @@ Some important arguments:
 - 'has_v', 'has_a', and 'has_t' indicate the modality used in the model.
 
 ## Dataset
-We follow [MMGCN](https://github.com/weiyinwei/MMGCN) and provide three processed datasets: Kwai, Tiktok, and Movielnes.  
+Please check [MMGCN](https://github.com/weiyinwei/MMGCN) for the datasets: Kwai, Tiktok, and Movielens. 
+
+Due to the copyright, we could only provide some toy datasets for evaluation. If you need the complete ones, please contact the owners of the datasets. 
+<!-- We follow [MMGCN](https://github.com/weiyinwei/MMGCN) and provide three processed datasets: Kwai, Tiktok, and Movielnes.  -->
 
 ||#Interactions|#Users|#Items|Visual|Acoustic|Textual|
 |:-|:-|:-|:-|:-|:-|:-|
