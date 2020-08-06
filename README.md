@@ -49,7 +49,7 @@ Some important arguments:
 ## Dataset
 Please check [MMGCN](https://github.com/weiyinwei/MMGCN) for the datasets: Kwai, Tiktok, and Movielens. 
 
-Due to the copyright, we could only provide some toy datasets for evaluation. If you need the complete ones, please contact the owners of the datasets. 
+Due to the copyright, we could only provide some toy datasets for validation. If you need the complete ones, please contact the owners of the datasets. 
 <!-- We follow [MMGCN](https://github.com/weiyinwei/MMGCN) and provide three processed datasets: Kwai, Tiktok, and Movielnes.  -->
 
 ||#Interactions|#Users|#Items|Visual|Acoustic|Textual|
